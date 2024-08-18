@@ -1,5 +1,5 @@
 # PRODIGY_DS_04
-## EXPLANATORY DATA ANALYSIS ON SOCIAL MEDIA 
+## EXPLORATORY DATA ANALYSIS ON SOCIAL MEDIA 
 
 ### Sentiment Analysis and Visualization of Social Media Data:
 This repository contains scripts and tools for conducting sentiment analysis on social media data. The main goal is to extract, process, and analyze text data from social media platforms (such as Twitter, Facebook, etc.) to understand the sentiment (positive, negative, neutral) towards particular topics, events, or brands.
